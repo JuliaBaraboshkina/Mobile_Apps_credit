@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="feedbacktypelist">
+        <item>@string/feedbacktype1</item>
+        <item>@string/feedbacktype2</item>
+        <item>@string/feedbacktype3</item>
+        <item>@string/feedbacktype4</item>
+        <item>@string/feedbacktype5</item>
+        <item>@string/feedbacktype6</item>
+        <item>@string/feedbacktype7</item>
+        <item>@string/feedbacktype8</item>
+        <item>@string/feedbacktype9</item>
+        <item>@string/feedbacktype10</item>
+        <item>@string/feedbacktype11</item>
+        <item>@string/feedbacktype12</item>
+        <item>@string/feedbacktype13</item>
+        <item>@string/feedbacktype14</item>
+        <item>@string/feedbacktype15</item>
+        <item>@string/feedbacktype16</item>
+        <item>@string/feedbacktype17</item>
+        <item>@string/feedbacktype18</item>
+        <item>@string/feedbacktype19</item>
+        <item>@string/feedbacktype20</item>
+        <item>@string/feedbacktype21</item>
+        <item>@string/feedbacktype22</item>
+        <item>@string/feedbacktype23</item>
+        <item>@string/feedbacktype24</item>
+        <item>@string/feedbacktype25</item>
+        <item>@string/feedbacktype26</item>
+        <item>@string/feedbacktype27</item>
+        <item>@string/feedbacktype28</item>
+        <item>@string/feedbacktype29</item>
+        <item>@string/feedbacktype30</item>
+        <item>@string/feedbacktype31</item>
+    </string-array>
+    <string-array name="monthlist">
+        <item>@string/month</item>
+        <item>@string/month2</item>
+        <item>@string/month3</item>
+        <item>@string/month4</item>
+        <item>@string/month5</item>
+        <item>@string/month6</item>
+        <item>@string/month7</item>
+        <item>@string/month8</item>
+        <item>@string/month9</item>
+        <item>@string/month10</item>
+        <item>@string/month11</item>
+        <item>@string/month12</item>
+    </string-array>
+    <string-array name="yearlist">
+        <item>@string/year</item>
+        <item>@string/year1</item>
+        <item>@string/year2</item>
+        <item>@string/year3</item>
+        <item>@string/year4</item>
+        <item>@string/year5</item>
+        <item>@string/year6</item>
+        <item>@string/year7</item>
+        <item>@string/year8</item>
+        <item>@string/year9</item>
+        <item>@string/year10</item>
+        <item>@string/year11</item>
+        <item>@string/year12</item>
+        <item>@string/year13</item>
+        <item>@string/year14</item>
+        <item>@string/year15</item>
+        <item>@string/year16</item>
+        <item>@string/year17</item>
+        <item>@string/year18</item>
+        <item>@string/year19</item>
+        <item>@string/year20</item>
+        <item>@string/year21</item>
+        <item>@string/year22</item>
+        <item>@string/year23</item>
+        <item>@string/year24</item>
+        <item>@string/year25</item>
+        <item>@string/year26</item>
+        <item>@string/year27</item>
+        <item>@string/year28</item>
+        <item>@string/year29</item>
+        <item>@string/year30</item>
+    </string-array>
+    <string-array name="pollist">
+        <item>@string/male</item>
+        <item>@string/female</item>
+    </string-array>
+</resources>
